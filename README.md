@@ -3,7 +3,7 @@
 
 <h3 align="center">Full Stack Web, Application and Software Developer</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Cloud Ops, AWS**
+- 🌱 I’m currently learning **Spring Boot, Docker, AWS**
 
 - 👯 I’m looking to collaborate on **React, NextJs, ExpressJS, Spring Boot**
 

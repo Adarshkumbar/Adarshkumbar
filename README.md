@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumbar</h1>
-<img align="center" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media1.tenor.com/m/wLScts57WRoAAAAC/gif-gojo-satoru.gif](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
+<div align="center">
+  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="Centered Image">
+</div>
 
 <h3 align="center">Full Stack Web, Application and Software Developer</h3>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumbar</h1>
 <div align="center">
-  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="Centered Image">
+  <img src="https://cdna.artstation.com/p/assets/images/images/049/456/834/original/moises-dimas-night-of-falling-stars-hd-2-wallpaper.gif?1652540104" alt="Centered Image">
 </div>
 
 <h3 align="center">Full Stack Web, Application and Software Developer</h3>
@@ -139,3 +139,6 @@
     </a>
     <span style="margin-right: 10px;"></span>
     <br> </p>
+    <div align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/049/456/834/original/moises-dimas-night-of-falling-stars-hd-2-wallpaper.gif?1652540104" alt="Centered Image">
+</div>

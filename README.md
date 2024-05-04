@@ -5,8 +5,6 @@
 
 <h3 align="center">Full Stack Web, Application and Software Developer</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Docker, AWS**
-
 - 👯 I’m looking to collaborate on **React, NextJs, ExpressJS, Spring Boot**
 
 - 💬 Ask me about **React, Typescript, C++, ExpressJS, MongoDB, MySQL,**
@@ -139,6 +137,6 @@
     </a>
     <span style="margin-right: 10px;"></span>
     <br> </p>
-    <div align="center">
+<!--     <div align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/049/456/834/original/moises-dimas-night-of-falling-stars-hd-2-wallpaper.gif?1652540104" alt="Centered Image">
-</div>
+</div> -->

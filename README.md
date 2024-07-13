@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumbar</h1>
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/049/456/834/original/moises-dimas-night-of-falling-stars-hd-2-wallpaper.gif?1652540104" alt="Centered Image">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRrcnpsYXN3Y3ViamhrdXl6NzR6NW9jZWF2NDR3cTFzYjZnemk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.webp" alt="Centered Image" >
 </div>
 
 <h3 align="center">Full Stack Web, Application and Software Developer</h3>

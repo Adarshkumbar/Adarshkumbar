@@ -5,7 +5,7 @@
 
 <h3 align="center">Full Stack Web, Application and Software Developer</h3>
 
-- 👯 I’m looking to collaborate on **React, NextJs, ExpressJS, Spring Boot**
+- 👯 I’m looking to collaborate on **React, NextJs, ExpressJS, Spring Boot, QT, Plugin**
 
 - 💬 Ask me about **React, Typescript, C++, ExpressJS, MongoDB, MySQL,**
 
